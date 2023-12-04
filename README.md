@@ -16,3 +16,5 @@ Provides a good user experience compatible with all devices
 // mp3
 
 <h3>Screen Gif</h3>
+
+![music](https://github.com/begpan/musicPlayerr/assets/145170180/da87b903-177e-4b9b-88c2-b8677e8ba8ba)
